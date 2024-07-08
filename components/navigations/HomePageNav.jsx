@@ -11,7 +11,7 @@ const HomePageNav = () => {
       </div>
       <div className="navbar-center">
         <Link href="/home" className="font-black normal-case text-xl">
-          daisyUI
+           Home
         </Link>
       </div>
       <div className="navbar-end">
